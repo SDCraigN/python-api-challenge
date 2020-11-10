@@ -1,11 +1,11 @@
-# python-api-challenge - What's the Weather Like?
+# python-api-challenge
  
 
 ### Background of the challenge
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 ### Observations & Analysis
-1. It gets warmer closer to the equator, but it doesn't mean it is hottest along the equator** :sun_with_face::sun_with_face::sun_with_face::thermometer:
+1. It gets warmer closer to the equator, but it doesn't mean it is hottest along the equator:
 
 We know that the weather gets warmer as we approach the equator. We can observe this relationship by looking at the scatter plot between Latitude and Maximum Temperature of a city.
 
@@ -25,7 +25,7 @@ Interestingly though, the tempteratures are highest at approximately 20 degree l
 
 However, we can observe 3 clusters worth mentioning. First cluster has 100% cloudiness for cities between 0 and 20 degree latitude. The second and third clusters are the 0% cloudiness at around 20 to 40 degree latitudes at both sides of the hemisphere. 
 
-This could potentially infer that *tropical cities closer to the equator tend to be cloudier while there are clearer skies along the Tropic of Cancer and Tropic of Capricon.*
+This could potentially infer that *tropical cities closer to the equator tend to be cloudier while there are clearer skies along the Tropic of Cancer and Tropic of Capricon.
 
 ### Files:
 
